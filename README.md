@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Arsh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<img align="right" alt="coding" width="300" src="![image](https://user-images.githubusercontent.com/110473856/213369323-6e14b142-bce3-4876-8781-ac49fa715e2d.png)">
+<img align="right" alt="coding" width="300" src="![image](https://user-images.githubusercontent.com/110473856/213369449-f6672166-3f68-443b-81a7-bfdfd8295d17.png)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshyanahmad&label=Profile%20views&color=0e75b6&style=flat" alt="arshyanahmad" /> </p>
 
