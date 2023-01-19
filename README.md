@@ -1,4 +1,4 @@
-![logo](https://github.com/ArshyanAhmad/ArshyanAhmad/blob/main/banner2.jpg)
+![logo](https://github.com/ArshyanAhmad/ArshyanAhmad/blob/main/ban.jpg)
 <h1 align="center">Hi 👋, I'm Arsh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
