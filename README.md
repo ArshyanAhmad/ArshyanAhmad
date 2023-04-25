@@ -1,5 +1,5 @@
 ![logo](https://github.com/ArshyanAhmad/ArshyanAhmad/blob/main/ban.jpg)
-<h1 align="center">Hi 👋, I'm Arsh</h1>
+<h1 align="center">Hi, I'm Arsh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
