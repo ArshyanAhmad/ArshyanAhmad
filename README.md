@@ -1,12 +1,15 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,There!+😀;+This+Is+Arsh+Ahmed!;+&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,There!+👋;+This+Is+Arsh!;+&center=true&size=30">
   </a>
 </h1>
 
-<h3 align="center">A Passionate Of Full Stack Web Application Developer</h3>
-<img align='right' alt'coding' width='400' src='https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif'>
+<h3>
+   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Backend+Developer;Full+Stack+Web+Application+Developer;&center=true&width=500&height=50&font=Roboto&size=25"></a>
+</h3>
+
+<img align='right' alt='coding' width='400' src='https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshyanahmad&label=Profile%20views&color=0e75b6&style=flat" alt="arshyanahmad" /> </p>
 
