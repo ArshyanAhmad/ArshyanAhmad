@@ -1,10 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm Arsh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align='right' alt'coding' width='400' src='https://i.gifer.com/origin/2a/2a552e5e677ebb1e01cd41a5591ae40e_w200.gif'>
+<img align='right' alt'coding' width='400' src='https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshyanahmad&label=Profile%20views&color=0e75b6&style=flat" alt="arshyanahmad" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshyanahmad" alt="arshyanahmad" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArshyanAhmad](https://github.com/ArshyanAhmad)
 
