@@ -1,5 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Arsh</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,There!+😀;+This+Is+Arsh+Ahmed!;+&center=true&size=30">
+  </a>
+</h1>
+
 <h3 align="center">A Passionate Of Full Stack Web Application Developer</h3>
 <img align='right' alt'coding' width='400' src='https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif'>
 
